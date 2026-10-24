@@ -1,7 +1,6 @@
 # Engine Detection System
 
-This script extracts frames from videos (`.mp4`) and filters out duplicate or static frames using motion detection before saving them for annotation in Label Studio. 
----
+This script extracts frames from videos (`.mp4`) and filters out duplicate or static frames using motion detection before saving them for annotation in Label Studio.
 
 ## 🚀 Setup & Installation
 
