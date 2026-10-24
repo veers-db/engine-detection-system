@@ -1,14 +1,13 @@
 # Engine Detection System
 
-This script extracts frames from videos (`.mp4`) and filters out duplicate or static frames using motion detection before saving them for annotation in Label Studio.
-
+This script extracts frames from videos (`.mp4`) and filters out duplicate or static frames using motion detection before saving them for annotation in Label Studio. 
 ---
 
 ## 🚀 Setup & Installation
 
 1. Install the required libraries:
 ```bash
-pip install opencv-python numpy python-dotenv
+pip install opencv-python numpy python-dotenv label-studio
 ```
 
 2. Create a `.env` file in the project folder and configure your paths:
