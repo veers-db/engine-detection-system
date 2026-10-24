@@ -1,0 +1,71 @@
+{
+  "id": 1,
+  "result": [
+    {
+      "original_width": 3840,
+      "original_height": 2160,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.476353044775564,
+        "y": 26.328207820686174,
+        "width": 25.45509507804496,
+        "height": 49.59241771321957,
+        "rotation": 354.96321729048054,
+        "rectanglelabels": [
+          "Engine"
+        ]
+      },
+      "id": "W3wYmXDnbS",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " veers@designbytes.org, 1",
+  "created_ago": "1\u00a0minute",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "veers@designbytes.org"
+  },
+  "task": {
+    "id": 1,
+    "data": {
+      "image": "/data/local-files/?d=design-bytes%5Cengine-detection%5Cextracted_frames%5Crecord_2026-09-02_13-00_f000000.jpg"
+    },
+    "meta": {},
+    "created_at": "2026-10-23T07:27:59.665635Z",
+    "updated_at": "2026-10-23T08:02:37.373037Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-23T08:01:29.668550Z",
+  "updated_at": "2026-10-23T08:02:37.442604Z",
+  "draft_created_at": "2026-10-23T07:36:07.635382Z",
+  "lead_time": 226.619,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
